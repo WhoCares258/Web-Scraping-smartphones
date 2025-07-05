@@ -23,7 +23,7 @@ A portfolio project to showcase practical skills in **web scraping**, **data ana
 | Data Manipulation | `pandas`, `numpy`, `regex` |
 | Data Visualization | `matplotlib`, `seaborn` |
 | Automation Handling | `cloudscraper` to bypass anti-bot measures |
-| Machine Learning (Planned) | `scikit-learn`, `train_test_split`, `LinearRegression` |
+| Machine Learning (Planned & Completed) | `scikit-learn`, `train_test_split`, `Random Forest and Linear Regression` |
 
 > 📌 Note: For 93% of smartphones, data was scraped and parsed automatically. The remaining entries were resolved via manual overrides due to structural deviations (e.g., multiple `<th>` rows, different formatting, etc.).
 
@@ -38,10 +38,11 @@ A portfolio project to showcase practical skills in **web scraping**, **data ana
 | Incomplete entries | Created a manual override dictionary for missing values |
 | Variants with multiple models | Handled model-variant associations during parsing |
 | Structural HTML irregularities | Proposed future improvement: detect and parse `<th>`-based spec tables more effectively |
+| No year data | Proposed future improvement: grab year data and extract other specs nicely for more accurate model prediction |
 
 ---
 
-## 🤖 ML Extension (Future Work)
+## No plans. Will go ahead with better projects
 
 - Build and train a **Linear Regression** model on cleaned data to predict smartphone prices.
 - Evaluate and visualize model performance.
