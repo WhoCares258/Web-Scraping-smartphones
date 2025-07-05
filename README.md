@@ -45,6 +45,5 @@ A portfolio project to showcase practical skills in **web scraping**, **data ana
 ## No plans. Will go ahead with better projects
 
 - Build and train a **Linear Regression** model on cleaned data to predict smartphone prices.
-- Evaluate and visualize model performance.
-
+  
 --
